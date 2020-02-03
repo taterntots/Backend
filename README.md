@@ -114,11 +114,20 @@ DELETE `localhost:4000/api/plants/:id`
 LOGIN DUMMY DATA:
 
 # LOGIN DUMMY DATA
-mario = mushroom
-zelda = triforce
-kirby = maxim
-samus = metroid
-pikachu = pikapika
+username: mario
+password: mushroom
+
+username: zelda
+password: triforce
+
+username: kirby
+password: maxim
+
+username: samus
+password: metroid
+
+username: pikachu
+password: pikapika
 
 # Design Schema for database
 
