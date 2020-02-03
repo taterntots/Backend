@@ -111,6 +111,15 @@ GET `localhost:4000/api/plants/:id`
 PUT `localhost:4000/api/plants/:id`
 DELETE `localhost:4000/api/plants/:id`
 
-# Database Setup for Journal / Exercises
+LOGIN DUMMY DATA:
+
+# LOGIN DUMMY DATA
+mario = mushroom
+zelda = triforce
+kirby = maxim
+samus = metroid
+pikachu = pikapika
+
+# Design Schema for database
 
 ![Screenshot](table-schema.PNG)
